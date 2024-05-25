@@ -1,0 +1,22 @@
+abs(x) = tira o valor absoluto, distancia positiva de 0
+
+base_convert(254, 10, 8) = converte o 254 de base 10, para um numero de base 8
+
+ceil(), floor(), round() = arredondam para cima, baixo, e aritmetico respectivamente
+
+hypot(cateto1, cateto2) = calculca hipotenusa 
+
+intdiv(valor1, valor2) = divisao inteira 
+
+min(), max() = valor minimo e maximo de qntos argumentos quiser
+
+pi() = valor de pi ou M_PI
+
+pow(base, expoente) = potencia
+
+sin(), cos(), tan() = seno coseno tangente
+
+sqrt(x) = raiz de x=81 == 9
+
+
+
